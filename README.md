@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riya Gupta</h1>
 <img src="https://user-images.githubusercontent.com/72425181/120600848-dd185600-c466-11eb-8843-f58196914f59.png" alt="info" />
-<h3 align="center">A passionate frontend developer from India</h3>!
+<h3 align="center">A passionate frontend developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyagupta89&label=Profile%20views&color=0e75b6&style=flat" alt="riyagupta89" /> </p>
