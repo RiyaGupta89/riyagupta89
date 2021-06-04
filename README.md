@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Riya Gupta</h1>
+<h1 align="center">Hi 👋, I'm Riya Gupta.</h1>
 <img src="https://user-images.githubusercontent.com/72425181/120600848-dd185600-c466-11eb-8843-f58196914f59.png" alt="info" />
 <h3 align="center">A passionate frontend developer from India</h3>
 
