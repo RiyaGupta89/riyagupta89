@@ -2,9 +2,6 @@
 <img src="https://user-images.githubusercontent.com/72425181/120600848-dd185600-c466-11eb-8843-f58196914f59.png" alt="info" />
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyagupta89&label=Profile%20views&color=0e75b6&style=flat" alt="riyagupta89" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyagupta89" alt="riyagupta89" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -12,7 +9,7 @@
   <img src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810"  width="400" align="right" alt="coding" />
 
 
-- 👨‍💻 You can check out my portfolio at [https://riyagupta89.github.io/Portfolio-React/](https://riyagupta89.github.io/Portfolio-React/)
+- 👨‍💻 You can check out my portfolio at [https://hopeful-poincare-f5b9e6.netlify.app/](https://hopeful-poincare-f5b9e6.netlify.app/)
 
 - 📫 How to reach me **riyag0841@gmail.com**
 
@@ -40,12 +37,4 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
