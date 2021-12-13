@@ -9,7 +9,7 @@
   <img src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810"  width="400" align="right" alt="coding" />
 
 
-- 👨‍💻 You can check out my portfolio at [https://hopeful-poincare-f5b9e6.netlify.app/](https://hopeful-poincare-f5b9e6.netlify.app/)
+- 👨‍💻 You can check out my portfolio at [https://riyaguptaportfolio.netlify.app/](https://riyaguptaportfolio.netlify.app/)
 
 - 📫 How to reach me **riyag0841@gmail.com**
 
